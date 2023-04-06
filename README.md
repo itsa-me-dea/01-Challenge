@@ -12,7 +12,7 @@ I learned a great deal in the importance of semantic elements and the ability to
 
 ## Installation
 
-N/A
+No installation is required. See the following link to access the website: https://itsa-me-dea.github.io/02-Challenge/
 
 ## Usage
 
