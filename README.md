@@ -20,7 +20,7 @@ To view changes, you can review the code comments in in the HTML and CSS documen
 
 The following is a screenshot of what the website should look like on full-screen display:
 
-![alt text](/Assets/02-html-css-git-homework-demo.png)
+![Demo of updated webage](/Assets/02-html-css-git-homework-demo.png)
 
 ## Credits
 
