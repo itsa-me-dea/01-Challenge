@@ -1,4 +1,4 @@
-# 02-Challenge | Module 1 Challenge 
+# 01-Challenge | Module 1 Challenge 
 
 ### **[Description](#description) | [Installation](#installation) | [Usage](#usage) | [Credits](#credits) | [License](#license)**
 
